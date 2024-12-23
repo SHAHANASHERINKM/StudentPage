@@ -53,9 +53,7 @@
   
   }
   @media (max-width: 576px) {
-    body{
-      overflow-x: hidden;
-    }
+   
    
     .btncontent{
       width: 20px !important;
