@@ -35,6 +35,9 @@
     margin-top: .3rem;
     margin-bottom: 1rem;
   }
+  .justify-content-center{
+    width:100%;
+  }
   
   
   
@@ -50,6 +53,9 @@
   
   }
   @media (max-width: 576px) {
+    body{
+      overflow-x: hidden;
+    }
    
     .btncontent{
       width: 20px !important;
